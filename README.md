@@ -1,2 +1,3 @@
-# bank-not-prediction
-bank not prediction
+# MLOps End-to-End Project
+
+An end-to-end MLOps project for banknote authentication prediction.
